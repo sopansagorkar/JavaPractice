@@ -6,7 +6,7 @@ import java.util.Set;
 public class SmallestPossibleInt {
 
 	public static void main(String a[]) {
-		int b[] = {-6,-7,-8};
+		int b[] = {1,2,3,4,5,6,7,8};
 		SmallestPossibleInt s = new SmallestPossibleInt();
 		System.out.println("****************" + s.solution(b));
 	}
